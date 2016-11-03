@@ -52,4 +52,4 @@ function download_data() {
      });
 }
 
-$(document).ready(download_data());
+$(document).ready(download_data);
